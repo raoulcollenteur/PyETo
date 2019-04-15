@@ -17,10 +17,10 @@ setup(
     test_suite='tests',
     classifiers=[
         'Programming Language :: Python',
-        "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3.2",
-        "Programming Language :: Python :: 3.3",
         "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7",
         'Programming Language :: Python :: Implementation :: PyPy',
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
@@ -28,5 +28,6 @@ setup(
         'Development Status :: 3 - Alpha',
         'Topic :: Scientific/Engineering',
         'Topic :: Scientific/Engineering :: Atmospheric Science',
+        'Topic :: Scientific/Engineering :: Hydrology',
     ],
 )
